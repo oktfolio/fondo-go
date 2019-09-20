@@ -1,0 +1,16 @@
+name: fondo-go
+port: 8080
+env: debug
+envs:
+  - name: debug
+    token:
+      issuer: oktfolio
+      expire_in: 1200000
+      secret_key: v3&^#$%^71HF6%$1#hd^%tsHSe6g43
+    datasources:
+      - database: fondo-security
+        host: 192.168.50.127
+        user: root
+        password: root
+        use_ssl: false
+        log: false
