@@ -11,7 +11,7 @@ require (
 	github.com/go-sql-driver/mysql v1.4.1
 	github.com/jinzhu/gorm v1.9.10
 	github.com/lib/pq v1.2.0 // indirect
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+	golang.org/x/crypto v0.1.0
 	google.golang.org/appengine v1.6.2 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20190905181640-827449938966
 )
