@@ -12,7 +12,7 @@ require (
 	github.com/jinzhu/gorm v1.9.10
 	github.com/lib/pq v1.2.0 // indirect
 	github.com/ugorji/go v1.1.7 // indirect
-	golang.org/x/crypto v0.9.0
+	golang.org/x/crypto v0.17.0
 	google.golang.org/appengine v1.6.2 // indirect
 	gopkg.in/yaml.v3 v3.0.1
 )
